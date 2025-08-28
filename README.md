@@ -35,7 +35,7 @@ The advantage of calculating a company's churn rate is that it provides clarity 
 
 <br>
 
-## ✍️ Authors
+## ✍️ Author
 
 - [Mamta Borade](https://github.com/mamtaborade)
 
